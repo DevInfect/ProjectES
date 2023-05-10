@@ -14,9 +14,7 @@ Login com o Moodle do IPS
 
 ```
 Deployment
-```
 
-```
 Identificação dos módulos do sistema
 	Nota: não esquecer que a tabela tem de ter o ID, o nome e a Descrição
 
@@ -32,9 +30,7 @@ have, Want to have)
 
 ```
 Deployment
-```
 
-```
 Requisitos de Produto
 Requisitos Organizacionais
 Requisitos Externos
